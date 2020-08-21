@@ -26,12 +26,7 @@ This plugin checks Veeam job status via Veeam Backup Enterprise Manager REST API
     OK - Job JOB1 completed successfully 2020-08-18 02:21:14 UTC
     $
 
-## Check command definition:
-
 
 # License
 
 [MIT](https://opensource.org/licenses/MIT)
-
-# Author
-Sergey V. Beduev
